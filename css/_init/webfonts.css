@@ -1,0 +1,29 @@
+
+@font-face {
+  font-family: 'Texte-courant';
+  src: url('../../fonts/cooperhewitt/cooperhewitt-book-webfont.woff2') format('woff2'),
+       url('../../fonts/cooperhewitt/cooperhewitt-book-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Texte-courant';
+  src: url('../../fonts/cooperhewitt/cooperhewitt-bookitalic-webfont.woff2') format('woff2'),
+       url('../../fonts/cooperhewitt/cooperhewitt-bookitalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Texte-courant';
+  src: url('../../fonts/cooperhewitt/cooperhewitt-medium-webfont.woff2') format('woff2'),
+       url('../../fonts/cooperhewitt/cooperhewitt-medium-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Texte-courant';
+  src: url('../../fonts/cooperhewitt/cooperhewitt-mediumitalic-webfont.woff2') format('woff2'),
+       url('../../fonts/cooperhewitt/cooperhewitt-mediumitalic-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
