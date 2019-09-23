@@ -1,4 +1,20 @@
 
+
+
+
+
+@font-face {
+  font-family: 'Titrage';
+  src: url('../../fonts/varelaround/varelaround-regular-webfont.woff2') format('woff2'),
+       url('../../fonts/varelaround/varelaround-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
+
 @font-face {
   font-family: 'Texte-courant';
   src: url('../../fonts/cooperhewitt/cooperhewitt-book-webfont.woff2') format('woff2'),
